@@ -1,0 +1,6 @@
+*.pyc
+.pypirc
+*.egg-info
+dist
+money-decimal2text.egg-info
+dist
