@@ -1,5 +1,11 @@
+##########
+money-decimal2text
+##########
+    
 Convert money decimal to text
 
+.. image:: https://badge.fury.io/py/money-decimal2text.svg
+    :target: https://pypi.python.org/pypi/money-decimal2text
 
 =======
 Install
